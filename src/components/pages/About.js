@@ -16,9 +16,8 @@ const About = () => {
                     </a>
                 </div>
                 <div className="profile-text">
-                    <p>My name is Karthika. I am a web developer and digital artist based in Chennai, India.
-I am a computer science engineering graduate of batch 2021.</p>
-                    <p>I didn't like what I was learning in my college. So I opted out of my campus placements and started learning web development on my own.</p>
+                    <p>I am Karthika. I am a web developer and digital artist based in Chennai, India.
+I am also a computer science engineering graduate of batch 2021.</p>
                     <p>I really like building responsive,interactive and colorful websites and looking forward to work in a professional setting and learn more from there.</p>
                     
                     <div className='skills'>
