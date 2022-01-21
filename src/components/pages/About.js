@@ -18,7 +18,7 @@ const About = () => {
                 <div className="profile-text">
                     <p>I am Karthika. I am a web developer and digital artist based in Chennai, India.
 I am also a computer science engineering graduate of batch 2021.</p>
-                    <p>I really like building responsive,interactive and colorful websites and looking forward to work in a professional setting and learn more from there.</p>
+                    <p>I really like building responsive,interactive and colorful websites and looking forward to working in a professional setting and learning more from there.</p>
                     
                     <div className='skills'>
                         <div className='soft-skills'>
