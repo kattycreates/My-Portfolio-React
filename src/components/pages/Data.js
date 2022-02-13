@@ -70,7 +70,6 @@ export const techSkills=[{id:11,skill:"HTML",icon:"fab fa-html5"},
 {id:14,skill:"JavaScript",icon:"fab fa-js-square"},
 {id:15,skill:"React",icon:"fab fa-react"},
 {id:16,skill:"Git",icon:"fab fa-git"},
-{id:17,skill:"GitHub",icon:"fab fa-github"},
-{id:18,skill:"MS-Office",icon:"fab fa-microsoft"}];
+{id:17,skill:"GitHub",icon:"fab fa-github"}];
 
 
