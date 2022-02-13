@@ -10,7 +10,7 @@ const About = () => {
             </div>
             <div className="content">
                 <div className="profile-pic">
-                    <img src="assets/avatar.png" alt="" />
+                    <img src="assets/K1.png" alt="" />
                     <a href={Resume} download="Karthika-Selvam-resume" target='_blank' rel="noreferrer" >
                         <button className='btn'>Resume <i className="fa-solid fa-download"></i> </button>
                     </a>
