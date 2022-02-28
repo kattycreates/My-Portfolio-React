@@ -1,6 +1,6 @@
 import React from 'react'
 import { softSkills,techSkills } from './Data'
-import Resume from './Karthika S_resume.pdf'
+import Resume from './Karthika_Selvam_MyResume.pdf'
 const About = () => {
     return (
         <div id="about">
