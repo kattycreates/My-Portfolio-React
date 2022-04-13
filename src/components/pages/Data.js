@@ -1,43 +1,66 @@
 export const slidesData = [
+  {
+    id: 1,
+    title: 'Free Blogger',
+    img: 'assets/free-blogger.png',
+    demo: 'https://freelogger.herokuapp.com/',
+    github: 'https://github.com/kattycreates/freelogger'
+  },
+  {
+    id: 2,
+    title: 'Portfolio',
+    img: 'assets/portfolio.png',
+    demo: 'https://karthika-selvam.netlify.app/',
+    github: 'https://github.com/kattycreates/My-Portfolio-React'
+  },
     {
-        id: 1,
+        id: 3,
         title: 'B-logger',
         img: 'assets/b-logger.png',
         demo: 'https://b-logger.netlify.app/',
         github: 'https://github.com/kattycreates/b-logger'
 
       },
+      {
+        id: 4,
+        title: 'order summary component',
+        img: 'assets/order-summary-component.png',
+        demo: 'https://kattycreates.github.io/order-summary-component/',
+        github: 'https://github.com/kattycreates/order-summary-component'
+      }, 
     {
-        id: 2,
-        title: 'To-do list',
-        img: 'assets/to-do-list.png',
-        demo: 'https://to-do-list-by-katty.netlify.app/',
-        github: 'https://github.com/kattycreates/to-do-list'
+      id: 5,
+      title: 'QR code component',
+      img: 'assets/Qrcode-component.png',
+      demo: 'https://kattycreates.github.io/qr-component/',
+      github: 'https://github.com/kattycreates/qr-component'
 
-      },
-       {
-        id: 3,
+    },
+    {
+      id: 6,
+      title: 'NFT component',
+      img: 'assets/nft-component.png',
+      demo: 'https://kattycreates.github.io/nft-preview-card-component/',
+      github: 'https://github.com/kattycreates/nft-preview-card-component'
+
+    },
+      {
+        id: 7,
         title: 'Weather App',
         img: 'assets/weather-app.png',
         demo: 'https://kattycreates.github.io/weather-app/',
         github: 'https://github.com/kattycreates/weather-app'
       },
       {
-        id: 4,
-        title: 'Random Quote Generator',
-        img: 'assets/quote-machine.png',
-        demo: 'https://kattycreates.github.io/Random_Quote_Machine/',
-        github: 'https://github.com/kattycreates/Random_Quote_Machine'
-      }, 
-    {
-      id: 5,
-      title: 'Markdown Previewer',
-      img: 'assets/markdown-previewer.png',
-      demo: 'https://kattycreates.github.io/Markdown_previewer/',
-      github: 'https://github.com/kattycreates/Markdown_previewer'
+        id: 8,
+        title: 'To-do list',
+        img: 'assets/to-do-list.png',
+        demo: 'https://to-do-list-by-katty.netlify.app/',
+        github: 'https://github.com/kattycreates/to-do-list'
 
-    },  {
-      id: 6,
+      },
+      {
+      id: 9,
       title: 'Pricing Component',
       img: 'assets/pricing-component.png',
       demo: 'https://kattycreates.github.io/Pricing_component/',
