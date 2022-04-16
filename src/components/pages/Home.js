@@ -7,7 +7,7 @@ const Home = () => {
             <div className="text">
                 <p>Hello,</p>
                 <p>I am <span>Karthika!</span></p>
-                <p>Front-end developer | Digital artist</p><br />
+                <p>Web developer | Digital artist</p><br />
                 <a href="#contact" className='btn'>Hire me</a>
 
             </div>
